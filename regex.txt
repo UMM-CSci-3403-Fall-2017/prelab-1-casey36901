@@ -1,0 +1,6 @@
+Regex0:
+(KK|Nic|Vincent),([^\n]+)
+Regex1:
+(KK|Nic|Vincent),*.\s.*s([^\n]+)
+Regex2:
+(turkey.bacon.swiss.|ham.cheddar.|tunaSalad.)\s([^\n].*)
